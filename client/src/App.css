@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+
+}
+body {
+  background-image: url('./bg.jpg');
+  background-size: cover; /* You can adjust this property based on your needs */
+  /* background-repeat: no-repeat; This ensures the image is not repeated */
+}
